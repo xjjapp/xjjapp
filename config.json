@@ -1,1 +1,22 @@
-{"version": {"id": 3, "name": "1.0.1", "code": 2, "changelog": "\u4f18\u5316\u6253\u5f00\u901f\u5ea6\uff01", "require": true, "files": [{"source": "direct", "url": "https://xjjapp.com/static/xjj-v1.0.1.apk"}]}, "ad": "oneway", "notice": {"id": 1, "content": "\u6b22\u8fce"}, "avnight": "https://api.9451buy.com/v2/", "auth": null}
+{
+  "ad": "oneway", 
+  "auth": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJkZXZpY2VfaWQiOiJiOThlYjljNjI1MTdjMjMiLCJhdWQiOiJhdm5pZ2h0IiwiaWF0IjoxNTEzNTE4Njc1LCJ2aWRlb19leHBpcmVkIjoxNjA4MTI2Njc1LCJtb2RlbCI6Ik9EMTAzIiwicGxhdGZvcm0iOiJhbmRyb2lkIiwidmVyc2lvbiI6IjIuMi4zIiwidmlwIjoiIiwiZXhwIjoxNTEzOTUwNjc1fQ.GDhdlYaZJT-L9XQ1Qlb5q17kOXZTySZcQYUjV4rw5mA", 
+  "avnight": "https://api.9451buy.com/v2/", 
+  "notice": {
+    "content": "\u6b22\u8fce", 
+    "id": 1
+  }, 
+  "version": {
+    "changelog": "\u6dfb\u52a0\u641c\u7d22\u529f\u80fd", 
+    "code": 3, 
+    "created": "Sun, 17 Dec 2017 11:55:23 GMT", 
+    "files": [
+      {
+        "source": "direct", 
+        "url": "https://xjjapp.com/storage/apks/xjj-v1.1.0.apk"
+      }
+    ], 
+    "name": "1.1.0", 
+    "require": true
+  }
+}
